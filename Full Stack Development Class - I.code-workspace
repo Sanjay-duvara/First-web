@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Full Stack Development Class - I"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full Stack Development Class - I"
+	}
+}

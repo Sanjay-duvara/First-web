@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right,purple, pink,skyblue,blue);
+}
+
+button{
+    padding: 15px 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    cursor: pointer;
+    border: 3cm;
+    transition: .4s ease-in;
+}
+.btn-1{
+    background-color: grey;
+}
+.btn-1:hover{
+    background-color: yellow;
+}
